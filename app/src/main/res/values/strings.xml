@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OWeather</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="condition">Condition</string>
+    <string name="sunny">SUNNY</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="_0_00m_s">0.00M/s</string>
+    <string name="humidity">Humidity</string>
+    <string name="_0_0">0.0%</string>
+    <string name="_10_jan_2024">10 JAN 2024</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="min_00_00_c">Min :00:00°C</string>
+    <string name="max_00_00_c">Max :00:00°C</string>
+    <string name="_00_00_c">00:00°C</string>
+    <string name="today">Today</string>
+    <string name="todo">TODO</string>
+    <string name="_00_00">00:00</string>
+</resources>
